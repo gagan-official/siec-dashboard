@@ -1,7 +1,6 @@
-import { FaShoppingCart } from "react-icons/fa";
 import "./App.css";
 import ProductSection from "./components/ProductSection";
-import TabBar from "./components/tabBar";
+import TabBar from "./components/TabBar";
 import UserCard from "./components/UserCard";
 import ExamCart from "./components/ExamCart";
 
